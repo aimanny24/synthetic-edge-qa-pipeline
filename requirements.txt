@@ -7,6 +7,7 @@ seaborn
 faker
 sdv
 pytest
+pytest-html
 great_expectations
 notebook
 jupyter
