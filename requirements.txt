@@ -1,0 +1,12 @@
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+faker
+sdv
+pytest
+great_expectations
+notebook
+jupyter
